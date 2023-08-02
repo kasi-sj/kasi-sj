@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kasi-sj
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on internship
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning Flutter and full stack
+- 💞️ I’m looking to collaborate on an internship
 - 📫 How to reach me kasinathansj21cs@psnacet.edu.in
 
 <!---

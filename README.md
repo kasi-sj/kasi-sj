@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my Name is Kasi nathan:
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kasi nathan:
 A passionate developer skilled in designing mobile and web applications.<br>🌱 I’m currently learning React Native , Next.js 14<br><br>💬 Ask me about React , React Navive , DSA<br><br>📫 How to reach me kasinathansj@gmail.com
 
 
